@@ -1,5 +1,6 @@
-@extends('layout.default')
+@extends('layouts.default')
 @section('content')
+<br><br><br>
 
-    <h1>Welcome to my Homepage</h1>
+    <h1>Welcome to my homepage</h1>
 @stop
