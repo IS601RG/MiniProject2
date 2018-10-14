@@ -11,8 +11,10 @@
     @include('includes.header')
     <main role="main">
         @yield('content')
-
     </main>
+    <footer>
+        @include('includes.footer')
+    </footer>
 </div>
 
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
